@@ -5,9 +5,6 @@ This project analyses 8,514 real drop-off events from Atlys's
 visa application funnel to identify where users abandon, why, 
 and what the product team can do about it.
 
-Built independently during my Product Intern role at Atlys 
-(Oct 2025 – April 2026).
-
 **Tool:** PostgreSQL (Supabase)  
 **Data:** Exported from internal Grafana dashboards  
 **Scope:** 8,514 drop-off events across 4,799 unique users  
