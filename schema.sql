@@ -1,5 +1,3 @@
-DROP TABLE funnel_dropoffs;
-
 CREATE TABLE funnel_dropoffs (
     "UserId" TEXT,
     "ApplicationId" text,
