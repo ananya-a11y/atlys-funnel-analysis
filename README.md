@@ -12,6 +12,8 @@ Built independently during my Product Intern role at Atlys
 **Data:** Exported from internal Grafana dashboards  
 **Scope:** 8,514 drop-off events across 4,799 unique users  
 **Period:** Oct 2023 – April 2026  
+**Notion Link** https://www.notion.so/Atlys-Visa-Funnel-Drop-off-Analysis-35b245328d638058bc9ae63a76c530fd?source=copy_link
+
 
 ---
 
