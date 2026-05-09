@@ -53,8 +53,7 @@ WHERE "Destination" IN ('US', 'MA', 'ID')
 GROUP BY "Destination", "DropOff Step"
 ORDER BY "Destination", dropoffs DESC;
 
-# Which destinations and devices have the highest checkout abandonment?
-(Identifies where payment/trust friction is worst by market and platform)
+# Which destinations and devices have the highest checkout abandonment? (Identifies where payment/trust friction is worst by market and platform)
 SELECT 
   "Destination",
   "Device",
